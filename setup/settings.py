@@ -36,12 +36,12 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
-    'django_filters',
     'django.contrib.staticfiles',
     'escola',
     'rest_framework',
+    'django_filters',
     'drf_yasg',
-    "corsheaders",
+    'corsheaders',
 ]
 
 MIDDLEWARE = [
